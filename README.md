@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Leeron, pronouns ne/nem/nir (tho they/them/their is fine if you're not used to neopronouns).
+I'm a writer, knitter, gamer, and cat person. Not a coder yet, but I'm learning bits to create my website.
 <!--
 **LeeronHeywood/LeeronHeywood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
